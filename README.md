@@ -1,6 +1,6 @@
 # Notezoid App in React
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://github.com/pratham-7/Portfolio-Website/blob/main/ReadME-img.png">
+<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://github.com/pratham-7/Notezoid/blob/main/README-img.png">
 
 Built using:
 
