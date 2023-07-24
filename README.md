@@ -7,7 +7,7 @@ Built using:
 - Front-end library: React
 - CSS framework: React-bootstrap
 
-In the /portfolio-website, you can run:
+In the /notezoid, you can run:
 
 ### `npm start`
 
